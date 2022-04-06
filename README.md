@@ -1,3 +1,3 @@
 # MyFirstRepo
 
-### My first mardown edit
+### My first markdown edit
